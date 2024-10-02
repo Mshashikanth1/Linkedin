@@ -21,3 +21,6 @@ setTimeout(function() {
 setTimeout(function() {
   clickButtons();
 }, 4000); // Adjust for additional loads if necessary
+
+
+/*just paste this  in browser console by oppeinging followers screen*/
